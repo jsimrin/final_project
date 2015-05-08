@@ -1,0 +1,16 @@
+div {
+	width: 45%;
+	float: left;
+}
+
+div.rightSide {
+	margin-left: 2%;
+}
+
+img {
+	width: 100%;
+}
+
+button {
+	width: 100%;
+}
